@@ -5,13 +5,13 @@
 
 ## About Me
 
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about development in general.
+I really enjoy everything related to technology, programming, and I'm passionate about development in general.
 
-🌿 Trying to become a better person every day.
+Trying to become a better person every day.
 </br>
-⌛ I enjoy personal development and productivity.
+I enjoy personal development and productivity.
 </br>
-🫂 I enjoy working in teams and collaborating with other people.
+I enjoy working in teams and collaborating with other people.
 </br>
 
 ## Technologies:
@@ -33,11 +33,11 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
