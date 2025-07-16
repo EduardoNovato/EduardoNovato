@@ -1,7 +1,7 @@
 # Welcome, I'm Eduardo Coronell 👋
 
 ### Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoNovato&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EduardoNovato&theme=dark)](https://git.io/streak-stats)
 
 ## About Me
 
