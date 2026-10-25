@@ -1,4 +1,4 @@
-# Welcome, I'm Eduardo Coronell 👋
+# Welcome, I'm Eduardo Coronell 
 
 ### Developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=EduardoNovato&theme=dark)](https://git.io/streak-stats)
