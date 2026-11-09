@@ -39,15 +39,15 @@ ORDER  BY started DESC;
 -- (2 rows)
 ```
 
-🎓 Studying **Systems Engineering** at Politécnico de la Costa Atlántica (2025 – present) · **Systems Technologist**, SENA (2021 – 2023).
+Studying **Systems Engineering** at Politécnico de la Costa Atlántica (2025 – present) · **Systems Technologist**, SENA (2021 – 2023).
 
-#### ⚡ Results
+#### Results
 
 - **−15%** response time on billing queries (ASP Solutions)
 - **−20%** support incident resolution time, with automation scripts (ASP Solutions)
 - **238 s → 26 ms** on a TPC-H query, with the index suggested by my tool [Explica SQL](https://explain-sql.vercel.app)
 
-#### 🚀 Featured projects
+#### Featured projects
 
 | Project | What it does |
 | :-- | :-- |
@@ -56,11 +56,11 @@ ORDER  BY started DESC;
 | **NONET**<br><sub>[Code](https://github.com/EduardoNovato/nonet)</sub> | Desktop app to download video and audio from YouTube, Facebook, TikTok and X. It detects the platform from the URL, downloads in the background and ships as a portable `.exe`.<br><sub>Python · PySide6 · yt-dlp · FFmpeg</sub> |
 | **PCA&nbsp;Music**<br><sub>[Demo](https://pca-music-seminario.vercel.app)&nbsp;·&nbsp;[Code](https://github.com/EduardoNovato/pca-music-seminario)</sub> | Spotify-style mobile app built as a team for a Politécnico de la Costa Atlántica seminar: login, guarded routes, light/dark theme and songs loaded from an API.<br><sub>Angular · Ionic · Capacitor · TypeScript</sub> |
 
-#### 🧰 Stack
+#### Stack
 
 Oracle · PostgreSQL · PL/SQL · PL/pgSQL · Java · Go · Python · PHP · Kotlin · Jetpack Compose · Docker · Linux · Git · Astro
 
-#### 📫 Contact
+#### Contact
 
 Have a backend role, a project, or just want to talk databases? Email me at **[ejco2003@gmail.com](mailto:ejco2003@gmail.com)** or reach me on **[LinkedIn](https://www.linkedin.com/in/eduardo-coronell)**. You can also visit my **[portfolio](https://eduardocoronell.vercel.app/en/)** or download my **[CV](https://eduardocoronell.vercel.app/cv/eduardo-coronell-cv.pdf)** (in Spanish).
 
@@ -81,9 +81,9 @@ ORDER  BY desde DESC;
 -- (2 filas)
 ```
 
-🎓 Estudio **Ingeniería de Sistemas** en el Politécnico de la Costa Atlántica (2025 – hoy) y soy **Tecnólogo en Sistemas** del SENA (2021 – 2023).
+Estudio **Ingeniería de Sistemas** en el Politécnico de la Costa Atlántica (2025 – hoy) y soy **Tecnólogo en Sistemas** del SENA (2021 – 2023).
 
-## ⚡ Resultados
+## Resultados
 
 <table>
   <tr>
@@ -109,7 +109,7 @@ ORDER  BY desde DESC;
 | **NONET**<br><sub>[Código](https://github.com/EduardoNovato/nonet)</sub> | App de escritorio para descargar video y audio de YouTube, Facebook, TikTok y X. Detecta la plataforma por la URL, descarga en segundo plano y se distribuye como un `.exe` portable.<br><sub>Python · PySide6 · yt-dlp · FFmpeg</sub> |
 | **PCA&nbsp;Music**<br><sub>[Demo](https://pca-music-seminario.vercel.app)&nbsp;·&nbsp;[Código](https://github.com/EduardoNovato/pca-music-seminario)</sub> | App móvil tipo Spotify hecha en equipo para un seminario del Politécnico de la Costa Atlántica: login, rutas protegidas, tema claro/oscuro y canciones cargadas desde una API.<br><sub>Angular · Ionic · Capacitor · TypeScript</sub> |
 
-## 🧰 Stack
+## Stack
 
 **Bases de datos**<br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
@@ -133,13 +133,9 @@ ORDER  BY desde DESC;
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
-## 📈 Actividad en GitHub
+## Actividad en GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=EduardoNovato&locale=es&hide_border=true&background=0F1619&stroke=1F2A2D&ring=3CC9B0&fire=3CC9B0&currStreakNum=EAF2F0&sideNums=EAF2F0&currStreakLabel=3CC9B0&sideLabels=97A6A3&dates=7D8C89">
   <img alt="Racha de contribuciones de EduardoNovato en GitHub" src="https://streak-stats.demolab.com?user=EduardoNovato&locale=es&hide_border=true&background=F8FBF9&stroke=D5DEDA&ring=0F7A68&fire=0F7A68&currStreakNum=0F1A18&sideNums=0F1A18&currStreakLabel=0F7A68&sideLabels=4B5B58&dates=5F6E69">
 </picture>
-
-## 📫 Contacto
-
-¿Tienes una vacante backend, un proyecto o solo quieres hablar de bases de datos? Escríbeme a **[ejco2003@gmail.com](mailto:ejco2003@gmail.com)** o por **[LinkedIn](https://www.linkedin.com/in/eduardo-coronell)**. También puedes ver mi **[portafolio](https://eduardocoronell.vercel.app)** o descargar mi **[CV](https://eduardocoronell.vercel.app/cv/eduardo-coronell-cv.pdf)**.
