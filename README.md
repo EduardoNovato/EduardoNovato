@@ -133,6 +133,12 @@ Estudio **Ingeniería de Sistemas** en el Politécnico de la Costa Atlántica (2
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
+## Open source
+
+| | Proyecto | Contribución | Stack | Estado |
+|:-:|---|---|:-:|:-:|
+| <img src="https://raw.githubusercontent.com/FreshRSS/FreshRSS/edge/p/themes/icons/icon.svg" width="32" alt="FreshRSS"> | **[FreshRSS](https://github.com/FreshRSS/FreshRSS)**<br>![Stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=flat-square&logo=github&label=stars&color=0F7A68) | Opción para abrir los artículos en su sitio original al hacer clic en el título, con pruebas en PHPUnit | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![PR #9554](https://img.shields.io/badge/PR_%239554-merged-8957e5?style=flat-square&logo=github&logoColor=white)](https://github.com/FreshRSS/FreshRSS/pull/9554) |
+
 ## Actividad en GitHub
 
 <picture>
